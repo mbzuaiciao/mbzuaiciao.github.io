@@ -49,7 +49,7 @@ My research investigates the **formalization of compositional reasoning** throug
 
 ## Research Experience
 *   **Latent Program Networks (LPNs)**
-    *   Introduced a framework for structuring latent transformations using algebraic constraints (**Associativity, Identity, Closure**).
+    *   Introduced a framework for structuring latent transformations using algebraic constraints (Associativity, Identity, Closure).
     *   Demonstrated **systematic multi-step generalization** from single-step supervision without explicit symbolic rules or test-time search.
     *   Established that complex reasoning emerges when latent geometry is appropriately shaped, rather than through scale alone.
 *   **G42 Group, Abu Dhabi**
