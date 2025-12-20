@@ -55,26 +55,11 @@ My research investigates the **formalization of compositional reasoning** throug
 *   **G42 Group, Abu Dhabi**
     *   Designed and built an AI prototype for a **sovereign wealth fund**.
     *   Integrated LLMs, Retrieval-Augmented Generation (RAG), and agentic workflows to automate reasoning in fixed-income research and investment workflows.
-
----
-
-## Methodological Research
-### Agentic Reasoning Method
-Reframes reasoning and planning as an emergent property of **modular, state-driven systems**. Decomposes cognition into interacting agents—each responsible for a specific role (generation, evaluation, refinement, integration)—governed by **persistent state transitions**.
-*   **Uncertainty-Driven Routing**: Scalable reasoning triggered by consistency thresholds.
-*   **Diversified Context Expansion**: Coherent response selection via judge agents over parallel perspectives.
-*   **Hierarchical Modular Reasoning**: Parent-child subgraphs managed by **StateGraph** for global integration.
-*   *Outcome*: Reasoning emerges from coordination and persistence among agents, rather than deeper prompting alone.
-
-### Double Machine Learning (DML) Method
-Addresses **causal estimation with high-dimensional confounders** by explicitly orthogonalizing parameters of interest with respect to nuisance components.
-*   **Nuisance Estimation**: High-dimensional ML models for `E[Y|Z]` and `E[X|Z]`.
-*   **Orthogonalized Estimation**: Residualized regression satisfying **Neyman orthogonality** to eliminate bias from representational error.
-*   **Cross-fitting**: Ensures independence between nuisance and parameter estimation for root-n consistency.
-
-> [!IMPORTANT]
-> **Conceptual Connection: Structure over Scale**
-> Both methods share a unifying theme: **reasoning and inference are enforced through structure, not scale**. Agentic reasoning imposes *architectural structure* (modularity/routing) for stability, while DML imposes *statistical structure* (orthogonality/residualization) for causal stability. Correctness is a designed constraint on how components interact, not an implicit byproduct of data volume.
+*   **Methodological Frameworks (Agentic AI & Causal Inference)**
+    *   In parallel with the above, I have explored reasoning from a complementary methodological perspective through research on **agentic reasoning systems** and **double machine learning for causal inference**.
+    *   In my work on agentic reasoning, I investigated modular, state-driven architectures in which multiple language-model-based agents interact through structured routing, uncertainty assessment, and hierarchical control.
+    *   Separately, through work on double machine learning, I studied how **orthogonalization and structural constraints** enable reliable causal reasoning in high-dimensional settings.
+    *   Together, these experiences reinforced a unifying insight: **robust reasoning depends less on scale alone than on the explicit structure imposed on representations, interactions, and inference pathways**.
 
 ---
 
