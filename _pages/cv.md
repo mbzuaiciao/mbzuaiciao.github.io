@@ -37,7 +37,7 @@ My research investigates the **formalization of compositional reasoning** throug
 <div style="font-family: Georgia, serif; font-size: 1.1em; line-height: 1.6;" markdown="1">
 
 ## Education
-*   **MBZUAI**: MSc in Natural Language Processing (Thesis: "**On Why Form Shapes Reason**")
+*   **MBZUAI**: MSc in Natural Language Processing (Thesis: "On Why Form Shapes Reason")
 *   **École 42**: Computer Science (Systems-level software engineering)
 *   **Stanford University**: MS in Financial Mathematics
 *   **Waseda University**: MBA
