@@ -80,7 +80,7 @@ My research investigates the **formalization of compositional reasoning** throug
 
 ---
 
-## Prior Professional Background
+## Prior Professional Background (Condensed)
 *   **Portfolio Management & Arbitrage Strategies**
     *   Architected and orchestrated systematic relative-value and arbitrage strategies across **global macro, credit, and capital-structure** domains.
     *   Engineered quantitative signal frameworks for market-neutral execution in **rates**, investment-grade, and high-yield universes, emphasizing **non-linear risk capture**.
