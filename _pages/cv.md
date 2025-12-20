@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "CV"
 permalink: /cv/
 author_profile: false
@@ -9,56 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Ching Chao
+**Portfolio Manager & AI Researcher**  
+[mbzuai.ciao@gmail.com](mailto:mbzuai.ciao@gmail.com) | +1 617-500-3575
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Overview
+I am a portfolio manager and AI researcher whose work bridges financial markets and machine intelligence. My background spans decades of experience across credit, rates, FX, equity, and derivatives, complemented by formal training in financial mathematics (MIT, Stanford) and artificial intelligence (MBZUAI). My career has evolved through global financial centers including Tokyo, Hong Kong, Singapore, London, Paris, New York, and Abu Dhabi.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## AI & Research Experience
+*   **Core42 (G42 Group, Abu Dhabi)**
+    *   Designed and built an AI prototype for a sovereign wealth fund.
+    *   Integrated LLMs, Retrieval-Augmented Generation (RAG), and agentic workflows to automate reasoning in fixed-income research and credit risk analysis.
+*   **Latent Program Networks (LPNs)**
+    *   Researched category-theoretic structures in neural reasoning to improve out-of-distribution generalization.
+    *   Explored functors, monoidal composition, and natural transformations as inductive biases in neural architectures.
+*   **AI Agents & Multi-Step Reasoning**
+    *   Designed modular systems using LangGraph, LangChain, LangSmith, and Deep Agents.
+    *   Orchestrated multi-agent collaboration, tool-use, and structured memory for domain-specific intelligence in finance.
+*   **LLM Foundations & Implementation**
+    *   Hands-on experience with transformer architectures, parameter-efficient fine-tuning (PEFT, QLoRA), scalable training workflows, and theoretical alignment.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Financial & Trading Experience
+*   **Portfolio Management & Arbitrage Strategies**
+    *   Managed global macro, credit, and capital-structure arbitrage portfolios.
+    *   Strategies included credit index basis, CDS curve and butterfly, volatility term-structure, and correlation trades.
+*   **Institutional Tenure**
+    *   **Salomon Brothers / Morgan Stanley (Tokyo)**: Equity and fixed-income derivatives; market-making and structured trading.
+    *   **JP Morgan Chase (Asia)**: Relative-value trading in swaps, options, and cross-currency instruments.
+    *   **KBC AIM / Apogee Fund / Natixis (US & Europe)**: Systematic credit and convertible arbitrage; quantitative signal design.
+    *   **LetterOne Group (London)**: Managed global macro fixed-income and FX strategies ($16 billion investment group).
+    *   **Chao Family Office (2016 – Present)**: Independent portfolio and risk management; combining traditional arbitrage with AI-driven models.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Technical Proficiency
+*   **Languages & Frameworks**: Python, C, Julia, PyTorch, TensorFlow, JAX, FastAPI, Streamlit.
+*   **AI Tools**: Hugging Face, LangGraph, LangChain, DSPy, AutoGen, CrewAI, RAG pipelines.
+*   **Quant & ML**: Bayesian inference (Pyro, Turing), probabilistic modeling, time-series forecasting.
+*   **Blockchain & DeFi**: Solidity, Hardhat, Chainlink, Dune, Web3.js; tokenized credit and smart-contract-based arbitrage.
+
+## Academic Foundation
+*   **MBZUAI**: MSc in Natural Language Processing (Thesis: "On Why Form Shapes Reason")
+*   **Stanford University**: MS in Financial Mathematics
+*   **MIT**: BS in Finance
+*   **Waseda University**: MBA (MIT Japan Scholarship)
+*   **École 42**: Computer Science (Systems-level software engineering)
+
+## Publications
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Talks
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+## Teaching
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
