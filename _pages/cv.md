@@ -80,7 +80,12 @@ My research investigates the **formalization of compositional reasoning** throug
 ---
 
 ## Prior Professional Background
-*   **Chao Family Office (2016 – Present)**: Independent portfolio management; combining traditional arbitrage with **AI-driven models**.
-*   **LetterOne Group (London)**: Portfolio Manager for global macro and FX within a **$16 billion investment group**.
-*   **KBC AIM / Natixis (New York/Paris/London)**: Systematic credit and convertible arbitrage; **quantitative signal design**.
-*   **JP Morgan Chase**, **Morgan Stanley**, **Salomon Brothers** (Tokyo/HK/Singapore): Rates and Equity Derivatives trading.
+*   **Portfolio Management & Arbitrage Strategies**
+    *   Designed and managed global macro, credit, and capital-structure arbitrage portfolios across investment-grade and high-yield universes.
+    *   Strategies included credit index basis, CDS curve and butterfly, volatility term-structure, and correlation trades.
+*   **Institutional Tenure**
+    *   **Salomon Brothers / Morgan Stanley (Tokyo)**: Early work in equity and fixed-income derivatives, contributing to market-making and structured trading desks.
+    *   **JP Morgan Chase (Asia)**: Developed relative-value trading strategies in swaps, options, and cross-currency instruments.
+    *   **KBC AIM / Apogee Fund / Natixis (US & Europe)**: Focused on systematic credit and convertible arbitrage, achieving multi-year profitability through quantitative signal design.
+    *   **LetterOne Group (London)**: Managed global macro fixed-income and FX strategies within a **$16 billion investment group**, adhering to institutional risk parameters and mandates.
+    *   **Chao Family Office**: Independent portfolio and risk management since 2016, combining traditional arbitrage frameworks with emerging AI and data-driven models.
