@@ -38,7 +38,7 @@ My research investigates the **formalization of compositional reasoning** throug
 
 ## Education
 *   **MBZUAI**: MSc in Natural Language Processing (Thesis: "**On Why Form Shapes Reason**")
-*   **École 42**: Computer Science (**Systems-level software engineering**)
+*   **École 42**: Computer Science (Systems-level software engineering)
 *   **Stanford University**: MS in Financial Mathematics
 *   **Waseda University**: MBA
 *   **MIT**: BS in Finance
