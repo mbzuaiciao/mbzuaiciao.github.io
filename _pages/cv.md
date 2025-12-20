@@ -82,7 +82,7 @@ My research investigates the **formalization of compositional reasoning** throug
 ## Prior Professional Background
 *   **Portfolio Management & Arbitrage Strategies**
     *   Architected and orchestrated systematic relative-value and arbitrage strategies across **global macro, credit, and capital-structure** domains.
-    *   Engineered quantitative signal frameworks for market-neutral execution in investment-grade and high-yield universes, emphasizing **non-linear risk capture**.
+    *   Engineered quantitative signal frameworks for market-neutral execution in **rates**, investment-grade, and high-yield universes, emphasizing **non-linear risk capture**.
     *   Specialized in **Credit Index Basis, CDS Curve/Butterfly dynamics, Volatility Term-Structure, and high-dimensional Conditional Correlation** trades.
     *   Implemented rigorous institutional-grade risk parameters and tail-hedging protocols to ensure multi-year stability across volatile market regimes.
 *   **Institutional Tenure**
