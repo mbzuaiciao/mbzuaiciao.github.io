@@ -53,17 +53,3 @@ I am a portfolio manager and AI researcher whose work bridges financial markets 
 *   **Waseda University**: MBA (MIT Japan Scholarship)
 *   **École 42**: Computer Science (Systems-level software engineering)
 
-## Publications
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-## Talks
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-## Teaching
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
