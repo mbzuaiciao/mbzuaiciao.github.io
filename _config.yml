@@ -1,0 +1,31 @@
+# Site settings
+title: James C.
+description: >-
+  Research notes and experiments on AI agents, reasoning systems, world models, and financial AI.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mbzuaiciao.github.io" # the base hostname & protocol for your site
+github_username: mbzuaiciao
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  date_format: "%b %-d, %Y"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
