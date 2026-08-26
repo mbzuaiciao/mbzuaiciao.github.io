@@ -6,3 +6,4 @@ list_title: "Recent writing"
 # James C.
 
 Research notes and experiments on AI agents, reasoning systems, world models, and financial AI.
+Writing about experiments, implementation lessons, and questions that emerge while building AI systems.
