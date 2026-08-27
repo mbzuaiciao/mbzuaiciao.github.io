@@ -15,6 +15,8 @@ tags:
 
 > **This article was created for the purpose of entering the All Things Agentic Hackathon.**
 
+**#AllThingsAgentic**
+
 When autonomous AI agents are introduced to high-stakes enterprise domains—such as institutional credit analysis, capital allocation, or treasury risk—the conventional demonstration pattern is familiar: an LLM is given a broad system prompt, a set of unconstrained API tools, and the autonomy to inspect data, draw conclusions, and trigger downstream actions. When an error occurs, the typical engineering reflex is to add "self-reflection" loops or spawn an evaluator agent to check the first agent's work.
 
 In institutional environments, this design pattern is fundamentally fragile. Asking a probabilistic model to evaluate another probabilistic model creates an infinite regress of statistical consensus without deterministic mathematical guarantees. When money, regulatory compliance, and fiduciary obligations are at stake, autonomous agents cannot be their own judges.
